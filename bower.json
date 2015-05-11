@@ -11,6 +11,9 @@
     "pontos",
       "bootstrap"
   ],
+  "main":[
+      "index.html"
+  ],
   "license": "MIT",
   "ignore": [
     "**/.*",
