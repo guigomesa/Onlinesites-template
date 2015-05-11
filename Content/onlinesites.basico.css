@@ -1,0 +1,295 @@
+/*
+ * === PROPRIEDADES GERAIS ===
+ */
+
+/*
+ * — Corpo das páginas —
+ */
+body {        
+    font-family: 'Open Sans', 'Segoe UI', Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+/*
+ * — Margens —
+ */
+.mar-0 {
+    margin: 0;
+}
+
+.mar-top-0 {
+    margin-top: 0;
+}
+
+.mar-top-5 {
+    margin-top: 5px;
+}
+
+.mar-top-10 {
+    margin-top: 10px;
+}
+
+.mar-top-15 {
+    margin-top: 15px;
+}
+
+.mar-top-25 {
+    margin-top: 25px;
+}
+
+.mar-top-50 {
+    margin-top: 50px;
+}
+
+.mar-bottom-0 {
+    margin-bottom: 0;
+}
+
+.mar-bottom-5 {
+    margin-bottom: 5px;
+}
+
+.mar-bottom-10 {
+    margin-bottom: 10px;
+}
+
+.mar-bottom-15 {
+    margin-bottom: 15px;
+}
+
+.mar-bottom-25 {
+    margin-bottom: 25px;
+}
+
+.mar-bottom-50 {
+    margin-bottom: 50px;
+}
+
+.mar-left-0 {
+    margin-left: 0;
+}
+
+.mar-left-5 {
+    margin-left: 5px;
+}
+
+.mar-left-15 {
+    margin-left: 15px;
+}
+
+.mar-left-25 {
+    margin-left: 25px;
+}
+
+.mar-left-50 {
+    margin-left: 50px;
+}
+
+.mar-right-0 {
+    margin-right: 0;
+}
+
+.mar-right-5 {
+    margin-right: 5px;
+}
+
+.mar-right-15 {
+    margin-right: 15px;
+}
+
+.mar-right-25 {
+    margin-right: 25px;
+}
+
+.mar-right-50 {
+    margin-right: 50px;
+}
+
+.mar-hor-0 {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.mar-hor-5 {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.mar-hor-15 {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.mar-hor-25 {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.mar-hor-50 {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.mar-ver-0 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.mar-ver-5 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.mar-ver-15 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.mar-ver-25 {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.mar-ver-50 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+/*
+ * — Espaçamentos —
+ */
+.pad-0 {
+    padding: 0;
+}
+
+.pad-top-0 {
+    padding-top: 0;
+}
+
+.pad-top-5 {
+    padding-top: 5px;
+}
+
+.pad-top-15 {
+    padding-top: 15px;
+}
+
+.pad-top-25 {
+    padding-top: 25px;
+}
+
+.pad-top-50 {
+    padding-top: 50px;
+}
+
+.pad-bottom-0 {
+    padding-bottom: 0;
+}
+
+.pad-bottom-5 {
+    padding-bottom: 5px;
+}
+
+.pad-bottom-15 {
+    padding-bottom: 15px;
+}
+
+.pad-bottom-25 {
+    padding-bottom: 25px;
+}
+
+.pad-bottom-50 {
+    padding-bottom: 50px;
+}
+
+.pad-left-0 {
+    padding-left: 0;
+}
+
+.pad-left-5 {
+    padding-left: 5px;
+}
+
+.pad-left-15 {
+    padding-left: 15px;
+}
+
+.pad-left-25 {
+    padding-left: 25px;
+}
+
+.pad-left-50 {
+    padding-left: 50px;
+}
+
+.pad-right-0 {
+    padding-right: 0;
+}
+
+.pad-right-5 {
+    padding-right: 5px;
+}
+
+.pad-right-15 {
+    padding-right: 15px;
+}
+
+.pad-right-25 {
+    padding-right: 25px;
+}
+
+.pad-right-50 {
+    padding-right: 50px;
+}
+
+.pad-hor-0 {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.pad-hor-5 {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.pad-hor-15 {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.pad-hor-25 {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.pad-hor-50 {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.pad-ver-0 {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.pad-ver-5 {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.pad-ver-15 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.pad-ver-25 {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.pad-ver-50 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+/* ================================================== */

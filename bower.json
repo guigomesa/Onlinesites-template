@@ -1,0 +1,28 @@
+{
+  "name": "Template básico com bootstrap",
+  "version": "0.0.1",
+  "authors": [
+    "Guigo (desenvolvimento@onlinesites.com.br"
+  ],
+  "description": "Template básico de site com bootstrap",
+  "keywords": [
+    "template",
+    "sistema",
+    "pontos",
+      "bootstrap"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+    "dependencies": {
+    "bootstrap": "~3.3.0",
+    "modernizr": "~2.6.2",
+    "jquery": "~2.1.0",
+    "fontawesome": "~4.0.0"
+  },
+}
